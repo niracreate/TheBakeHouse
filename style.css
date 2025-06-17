@@ -1728,7 +1728,6 @@ header.scrolled {
 .modal-body .form-group:last-child { margin-bottom: 0; }
 .modal-footer {
     padding: 1.5rem 2rem;
-    background: var(--bg-dark-highlight);
     border-top: 1px solid var(--bg-dark-tertiary);
     text-align: right;
 }
